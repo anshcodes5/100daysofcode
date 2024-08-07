@@ -1,0 +1,7 @@
+print("Welcome to the shop name generator.")
+print("Answer the following questions to generate a name for your shop!")
+name = (input("What is your name?\n"))
+shop_type = (input("What kind of shop is it?\n"))
+print("Your shop name could be: " + '"' + name + "'s " + shop_type + '"')
+print("Thank you for using this program!")
+input("Press enter to close.\n")
